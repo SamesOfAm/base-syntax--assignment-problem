@@ -1,0 +1,14 @@
+.User-Input {
+    display: block;
+    margin: 0 auto;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    border-radius: 7px;
+    background: #eee;
+    padding: 20px;
+}
+
+.User-Input input {
+    border-radius: 7px;
+    border: 1px solid #ccc;
+}
